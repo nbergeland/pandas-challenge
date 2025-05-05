@@ -7,7 +7,7 @@ This document provides a technical overview of the pandas-challenge repository, 
 ## Repository Structure
 The pandas-challenge repository is organized into separate directories for each analysis project. Each project directory contains Jupyter notebooks with analysis code and data files in CSV format.
 
-![Screenshot](DTF.png)
+![Screenshot](struct.png)
 
 ## Primary Analysis Systems
 
@@ -37,14 +37,15 @@ The main notebook for this analysis is PyCitySchools_starter.ipynb, which reads 
 
 ## Data Analysis Workflow
 ### Title: Common Analytical Workflow in Both Systems
-![Screenshot](DTF.png)
+![Screenshot](workflow.png)
 
 ## Heroes of Pymoli System Details
 ### Title: Heroes of Pymoli Data Processing Pipeline
+![Screenshot](pipeline.png)
 
 ## PyCitySchools System Components
 ### Title: PyCitySchools Analysis Components and Data Flow
-
+![Screenshot](df.png)
 
 Sources: 
 pandas-challenge/PyCitySchools/04-Pandas_Pandas_HW_Instructions_PyCitySchools_PyCitySchools_starter.ipynb
@@ -105,7 +106,7 @@ pandas-challenge/PyCitySchools/04-Pandas_Pandas_HW_Instructions_PyCitySchools_Py
 Both analysis systems utilize similar Pandas techniques for data manipulation and analysis:
 
 ### Title: Core Pandas Techniques Used in Both Systems
-
+![Screenshot](coretech.png)
 
 Sources: 
 pandas-challenge/04-Pandas_Pandas_HW_Instructions_HeroesOfPymoli_HeroesOfPymoli_starter.ipynb
@@ -145,7 +146,7 @@ Both analysis projects generate similar types of summary statistics and report o
 - Categorical Analysis: Performance metrics grouped by spending, size, and school type
 
 ### Title: Analysis Output Structure
-
+![Screenshot](output.png)
 Sources: 
 pandas-challenge/04-Pandas_Pandas_HW_Instructions_HeroesOfPymoli_HeroesOfPymoli_starter.ipynb
 150-205
